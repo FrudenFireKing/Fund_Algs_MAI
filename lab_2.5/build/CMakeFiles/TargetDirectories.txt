@@ -1,0 +1,3 @@
+F:/FundAlgs/Fund_Algs_MAI/lab_2.5/build/CMakeFiles/lab_2.5.dir
+F:/FundAlgs/Fund_Algs_MAI/lab_2.5/build/CMakeFiles/ALL_BUILD.dir
+F:/FundAlgs/Fund_Algs_MAI/lab_2.5/build/CMakeFiles/ZERO_CHECK.dir
