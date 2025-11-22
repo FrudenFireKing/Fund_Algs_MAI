@@ -1,0 +1,46 @@
+[1] A = 5 | A=5 | Assignment
+[2] B = 4 | A=5, B=4 | Assignment
+[3] C = 2 | A=5, B=4, C=2 | Assignment
+[4] print(A + B^C) | A=5, B=4, C=2 | Print A + B^C
+[5] A = 1^0 | A=1, B=4, C=2 | Arithmetic operation
+[6] A = 5^5 | A=3125, B=4, C=2 | Arithmetic operation
+[7] A = -1^2 | A=-1, B=4, C=2 | Arithmetic operation
+[8] A = (-1)^2 | A=1, B=4, C=2 | Arithmetic operation
+[9] A = -2^3^2 | A=-512, B=4, C=2 | Arithmetic operation
+[10] A = (-2)^3^2 | A=-512, B=4, C=2 | Arithmetic operation
+[11] A = 3 | A=3, B=4, C=2 | Assignment
+[12] A = -A^A | A=-27, B=4, C=2 | Arithmetic operation
+[13] A = -2^2 | A=-4, B=4, C=2 | Arithmetic operation
+[14] A = 2 | A=2, B=4, C=2 | Assignment
+[15] B = 3 | A=2, B=3, C=2 | Assignment
+[16] C = A + B * 2 | A=2, B=3, C=8 | Arithmetic operation
+[17] D = (A + B) * (C - 1) | A=2, B=3, C=8, D=35 | Arithmetic operation
+[18] E = D ^ 2 | A=2, B=3, C=8, D=35, E=1225 | Arithmetic operation
+[19] F = -A + B * (C - 4) | A=2, B=3, C=8, D=35, E=1225, F=10 | Arithmetic operation
+[20] G = E / (B + A) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245 | Arithmetic operation
+[21] H = G ^ (A - 1) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Arithmetic operation
+[22] print(A) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print A
+[23] print(B) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print B
+[24] print(C) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print C
+[25] print(D) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print D
+[26] print(E) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print E
+[27] print(F) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print F
+[28] print(G) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print G
+[29] print(H) | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Print H
+[30] A     =   2 | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Assignment
+[31] B=3 | A=2, B=3, C=8, D=35, E=1225, F=10, G=245, H=245 | Assignment
+[32] C= A   +   B   *   4 | A=2, B=3, C=14, D=35, E=1225, F=10, G=245, H=245 | Arithmetic operation
+[33] D=( A +B) * ( C -  2 ) | A=2, B=3, C=14, D=60, E=1225, F=10, G=245, H=245 | Arithmetic operation
+[34] print(   D ) | A=2, B=3, C=14, D=60, E=1225, F=10, G=245, H=245 | Print D 
+[35] print(    A   ) | A=2, B=3, C=14, D=60, E=1225, F=10, G=245, H=245 | Print A   
+[36] A = 2 * (3 + 4) | A=14, B=3, C=14, D=60, E=1225, F=10, G=245, H=245 | Arithmetic operation
+[37] B = (2 + 3) * 4 | A=14, B=20, C=14, D=60, E=1225, F=10, G=245, H=245 | Arithmetic operation
+[38] print(A) | A=14, B=20, C=14, D=60, E=1225, F=10, G=245, H=245 | Print A
+[39] print(B) | A=14, B=20, C=14, D=60, E=1225, F=10, G=245, H=245 | Print B
+[40] A = 1 | A=1, B=20, C=14, D=60, E=1225, F=10, G=245, H=245 | Assignment
+[41] B = 2 | A=1, B=2, C=14, D=60, E=1225, F=10, G=245, H=245 | Assignment
+[42] C = 3 | A=1, B=2, C=3, D=60, E=1225, F=10, G=245, H=245 | Assignment
+[43] D = 4 | A=1, B=2, C=3, D=4, E=1225, F=10, G=245, H=245 | Assignment
+[44] E = 5 | A=1, B=2, C=3, D=4, E=5, F=10, G=245, H=245 | Assignment
+[45] Z = (((((A + B) * C) - D) ^ 2) + E * (A + B + C + D + E) - (A ^ 2) + (B ^ 3) - (C ^ 2) + (D ^ 3)) / (B + A) | A=1, B=2, C=3, D=4, E=5, F=10, G=245, H=245, Z=54 | Arithmetic operation
+[46] print(Z) | A=1, B=2, C=3, D=4, E=5, F=10, G=245, H=245, Z=54 | Print Z

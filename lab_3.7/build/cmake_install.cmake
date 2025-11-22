@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.6
+# Install script for directory: /mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.7
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.6/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.7/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

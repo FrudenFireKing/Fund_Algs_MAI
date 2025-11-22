@@ -1,0 +1,46 @@
+A = 5
+B = 4
+C = 2
+print(A + B^C)
+A = 1^0
+A = 5^5
+A = -1^2     
+A = (-1)^2   
+A = -2^3^2   
+A = (-2)^3^2
+A = 3
+A = -A^A
+A = -2^2
+A = 2
+B = 3
+C = A + B * 2
+D = (A + B) * (C - 1)
+E = D ^ 2
+F = -A + B * (C - 4)
+G = E / (B + A)
+H = G ^ (A - 1)
+print(A)
+print(B)
+print(C)
+print(D)
+print(E)
+print(F)
+print(G)
+print(H)
+   A     =   2
+B=3
+   C= A   +   B   *   4
+D=( A +B) * ( C -  2 )
+print(   D )
+print(    A   )
+A = 2 * (3 + 4)
+B = (2 + 3) * 4
+print(A)
+print(B)
+A = 1
+B = 2
+C = 3
+D = 4
+E = 5
+Z = (((((A + B) * C) - D) ^ 2) + E * (A + B + C + D + E) - (A ^ 2) + (B ^ 3) - (C ^ 2) + (D ^ 3)) / (B + A)
+print(Z)

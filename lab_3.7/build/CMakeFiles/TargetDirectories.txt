@@ -1,0 +1,3 @@
+/mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.7/build/CMakeFiles/lab_3.7.dir
+/mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.7/build/CMakeFiles/edit_cache.dir
+/mnt/f/FundAlgs/Fund_Algs_MAI/lab_3.7/build/CMakeFiles/rebuild_cache.dir

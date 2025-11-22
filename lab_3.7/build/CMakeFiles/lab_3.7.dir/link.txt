@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab_3.7.dir/src/main.c.o CMakeFiles/lab_3.7.dir/src/expression.c.o CMakeFiles/lab_3.7.dir/src/parser.c.o CMakeFiles/lab_3.7.dir/src/status.c.o -o lab_3.7 

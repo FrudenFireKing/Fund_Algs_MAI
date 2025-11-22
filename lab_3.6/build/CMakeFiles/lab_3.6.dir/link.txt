@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab_3.6.dir/src/main.c.o CMakeFiles/lab_3.6.dir/src/functions.c.o -o lab_3.6 
