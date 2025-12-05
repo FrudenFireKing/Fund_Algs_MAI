@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lab_1.3.dir/src/main.c.o CMakeFiles/lab_1.3.dir/src/unqCheck.c.o CMakeFiles/lab_1.3.dir/src/triangleSidesCheck.c.o CMakeFiles/lab_1.3.dir/src/findRoot.c.o -o lab_1.3  -lm 
